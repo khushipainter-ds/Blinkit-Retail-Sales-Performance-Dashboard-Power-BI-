@@ -12,7 +12,8 @@ Interactive Power BI dashboard analyzing 8,523 retail items across outlet types 
 Power BI | DAX | Power Query
 
 ## Dashboard Preview
-![Dashboard](screenshot.png)
+<img width="799" height="462" alt="image" src="https://github.com/user-attachments/assets/9aff1a73-7550-4232-93e1-7ee2b92128ce" />
+
 
 ## Files
 | File | Description |

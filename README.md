@@ -18,5 +18,5 @@ Power BI | DAX | Power Query
 ## Files
 | File | Description |
 |------|-------------|
-| `blinkit_dashboard.pbix` | Power BI file |
-| `blinkit_data.csv` | Source data |
+| `Project Power BI - Khushi Painter.pbix` | Power BI file |
+| `BlinkIT Grocery Data.csv` | Source data |

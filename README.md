@@ -20,3 +20,4 @@ Power BI | DAX | Power Query
 |------|-------------|
 | `Project Power BI - Khushi Painter.pbix` | Power BI file |
 | `BlinkIT Grocery Data.csv` | Source data |
+|`Blinkit Performance Dashboard.PDF` | Presentation File |
